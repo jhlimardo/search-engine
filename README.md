@@ -41,6 +41,3 @@ Note: you must to be installed Node.js
 12 - Click start and test the app.
 
 *** To get the data and load it into the database, I have used a Movie API, from which I have taken only 100.
-
-
->>>>>>> ed00e3b949181f86652a48e628aeb6cc1d77282a
