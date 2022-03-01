@@ -15,15 +15,14 @@ Note: you must to be installed Node.js
 4 - Create ".env" file on api root
 
 5 - .env Content:
-        DB_USER="your user"
-        DB_PASSWORD="your passwor"
-        DB_HOST="localhost"
-        DB_NAME="vertical"
-        DB_PORT="5432"
-        NODE_ENV="development"
-        API_PORT="3001"
-        API_HOST="localhost"
-        CORS="http://localhost:3000"
+        DB_USER="your user" 
+        DB_PASSWORD="your password" 
+        DB_HOST="localhost" 
+        DB_NAME="vertical" 
+        DB_PORT="5432" 
+        NODE_ENV="development" 
+        API_PORT="3001" API_HOST="localhost" 
+        CORS="http://localhost:3000" 
         APIKey="50aad2c9b16f4b2cef3b588be4378733"
 
 6 - Go to "api" folder and run "npm i"
