@@ -16,7 +16,7 @@ Note: you must to be installed Node.js
 5 - .env Content:
 
 			- DB_USER="your user"
-			- DB_PASSWORD="your passwor"
+			- DB_PASSWORD="your password"
 			- DB_HOST="localhost"
 			- DB_NAME="vertical"
 			- DB_PORT="5432"
