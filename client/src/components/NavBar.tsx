@@ -14,9 +14,14 @@ export default function NavBar() {
         </Link>
         <div className="navbar-boton-content">
           {/* <Link to="/home" className="navbar-links"> */}
-            <button onClick = {(e) => {
-                navigate('/home'); window.location.reload();
-              }}>Home</button>
+          <button
+            onClick={(e) => {
+              navigate("/home");
+              window.location.reload();
+            }}
+          >
+            Home
+          </button>
           {/* </Link> */}
         </div>
       </header>
