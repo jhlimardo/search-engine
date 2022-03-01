@@ -27,8 +27,3 @@ Note: you must to be installed Node.js
 10 - Click start and test the app.
 
 *** To get the data and load it into the database, I have used a Movie API, from which I have taken only 100.
-
-
-
-
-
