@@ -1,0 +1,59 @@
+body {
+    color: white;
+    background-color: #182228;
+}
+.container {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+.pelicula {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    gap: 20px;
+    height: 40%;
+}
+
+.home-buscar {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+  
+    }
+  
+    .home-input {
+      margin-left: 5px;
+      width: 50%;
+      height: 25px;
+      border-radius: 5px;
+      }
+
+      .home-buscar-button {
+        background-color: rgb(118, 160, 233);
+        border: 1px solid #545455;
+        border-radius: 4px;
+        padding: 5px;
+        margin: 5px;
+        width: 200px;
+        height: 30px;
+        font-size: 14px;
+        font-weight: bold;
+        color: #f5f4ee;
+        transition: .5s;  
+        margin-right: 10px;
+      }
+
+      .home-buscar-button:hover {
+        background-color: #545455;
+        color: #f5f4ee;
+        cursor: pointer;
+      }
+
+      @media (max-width: 768px) { 
+        .pelicula {
+          height: 70%;
+        }
+      }

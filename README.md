@@ -1,2 +1,4 @@
-# search-engine
-Search Engine App (Challenge)
+#Search Engine App
+###Typescipt | Nodejs | React | PostgreSQL | Sequelize
+
+

@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background-color: #182228;
+}
+.landing-container {
+  max-width: 80%;
+  display: flex;
+  margin: auto;
+  /* justify-content: center; */
+  align-items: center;
+}

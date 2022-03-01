@@ -1,0 +1,15 @@
+.container {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+.detalle {
+  display: flex;
+  justify-content: center;
+}
+
+.detalle p {
+  margin: 5px 20px;
+
+  text-align: justify;
+}
